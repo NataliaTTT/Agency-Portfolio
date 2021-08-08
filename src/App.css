@@ -1,0 +1,31 @@
+#mainNav {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #212529 !important;
+}
+.img-brand {
+  height: 2.75rem !important;
+}
+.btn-primary {
+  color: #fff !important;
+  background-color: #ffc800 !important;
+  border-color: #ffc800 !important;
+}
+.btn-primary:hover {
+  color: #fff !important;
+  background-color: #d9aa00 !important;
+  border-color: #cca000 !important;
+}
+.h4,
+h3,
+.h3,
+h2,
+.h2,
+h1,
+.h1 {
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem !important;
+
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+}
